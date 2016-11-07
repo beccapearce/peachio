@@ -1,4 +1,4 @@
-# ReduxSimpleStarter
+# Peachio starter web app
 
 ```
 	> npm install
